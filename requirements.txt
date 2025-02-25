@@ -1,0 +1,11 @@
+langchain
+langchain-pinecone
+pinecone-client
+pinecone-text
+langchain-groq
+pypdf
+ipykernel
+langchain_community
+langchain-google-genai
+groq
+langchain_ollama
